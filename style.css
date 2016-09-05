@@ -1,0 +1,29 @@
+div.title {
+    border: 3px solid lightgray;
+    width: auto;
+    background-color: black;
+    text-align: center;
+}
+
+div.container {
+	width: 80%;
+	border: 5px solid lightgray;
+	margin: 0 auto;
+}
+
+
+body{
+	font-family: Arial;
+	background-image: url("wallpaper.jpg");
+	background-repeat:no-repeat;
+}
+
+
+h1{
+	color: white}
+
+p{
+	color: lightgray;
+	font-weight: bold;
+}
+
